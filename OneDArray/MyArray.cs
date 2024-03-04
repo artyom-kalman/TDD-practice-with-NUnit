@@ -10,8 +10,8 @@ public class OneDArray
 
     public int this[int i]
     {
-        get => -1;
-        set => array[i] = int.MinValue;
+        get => array[i];
+        set => array[i] = value;
     }
 
     public OneDArray(int length)
