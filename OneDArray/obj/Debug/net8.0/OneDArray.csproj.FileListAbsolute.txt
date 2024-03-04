@@ -1,0 +1,14 @@
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\obj\Debug\net8.0\OneDArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\obj\Debug\net8.0\OneDArray.AssemblyInfoInputs.cache
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\obj\Debug\net8.0\OneDArray.AssemblyInfo.cs
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\obj\Debug\net8.0\OneDArray.csproj.CoreCompileInputs.cache
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\bin\Debug\net8.0\OneDArray.exe
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\bin\Debug\net8.0\OneDArray.deps.json
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\bin\Debug\net8.0\OneDArray.runtimeconfig.json
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\bin\Debug\net8.0\OneDArray.dll
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\bin\Debug\net8.0\OneDArray.pdb
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\obj\Debug\net8.0\OneDArray.dll
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\obj\Debug\net8.0\refint\OneDArray.dll
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\obj\Debug\net8.0\OneDArray.pdb
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\obj\Debug\net8.0\OneDArray.genruntimeconfig.cache
+E:\Doc\Work\Учёба\4 курс\Тестирование\LR6\OneDArray\obj\Debug\net8.0\ref\OneDArray.dll

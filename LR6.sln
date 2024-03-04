@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneDArray", "OneDArray\OneDArray.csproj", "{5778CF4B-203B-46DA-B288-1E33418DC5B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneDArray.Test", "OneDArray.Test\OneDArray.Test.csproj", "{265380DD-9297-46C9-9F1A-8B6CA6B950FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5778CF4B-203B-46DA-B288-1E33418DC5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5778CF4B-203B-46DA-B288-1E33418DC5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5778CF4B-203B-46DA-B288-1E33418DC5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5778CF4B-203B-46DA-B288-1E33418DC5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265380DD-9297-46C9-9F1A-8B6CA6B950FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265380DD-9297-46C9-9F1A-8B6CA6B950FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265380DD-9297-46C9-9F1A-8B6CA6B950FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265380DD-9297-46C9-9F1A-8B6CA6B950FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A65AC7-1B99-4CB1-BA47-025131A37BB6}
+	EndGlobalSection
+EndGlobal
