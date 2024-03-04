@@ -14,14 +14,14 @@ public class OneDArrayTest
         Assert.That(length, Is.EqualTo(10));
     }
 
-    [TestCase(5)]
-    public void SetGetValueAtIndexTest(int expectedValue)
+    [TestCase((int[])[1, 2, 3, 4, 5], 3, 10)]
+    public void SetGetValueAtIndexTest(int[] values, int index, int expectedValue)
     {
-        var array = new OneDArray(1);
+        var array = new OneDArray(values);
 
-        array[1] = expectedValue;
+        array[index] = expectedValue;
 
-        Assert.That(array[1], Is.EqualTo(expectedValue));
+        Assert.That(array[index], Is.EqualTo(expectedValue));
     }
 
     [TestCase((int[])[1, 3, 5, 8, 4, 3], 15)]
@@ -35,6 +35,6 @@ public class OneDArrayTest
 
         var actualSum = array.PositiveElementsSum();
 
-        Assert.That(array[1], Is.EqualTo(expectedSum));
+        Assert.That(actualSum, Is.EqualTo(expectedSum));
     }
 }
