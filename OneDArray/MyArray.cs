@@ -16,7 +16,7 @@ public class OneDArray
 
     public OneDArray(int length)
     {
-        array = new int[++length];
+        array = new int[length];
     }
 
     public OneDArray(int[] array)
