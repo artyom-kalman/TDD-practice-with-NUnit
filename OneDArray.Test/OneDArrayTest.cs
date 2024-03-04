@@ -5,13 +5,21 @@ namespace MyArray.Test;
 public class OneDArrayTest
 {
     [TestCase(10)]
+    [TestCase(0)]
     public void LengthTest(int expectedLength)
     {
         var array = new OneDArray(expectedLength);
 
         var length = array.Length;
 
-        Assert.That(length, Is.EqualTo(10));
+        Assert.That(length, Is.EqualTo(expectedLength));
+    }
+
+    [TestCase(-1)]
+    [TestCase(-10)]
+    public void LengthConstructorTestToFail(int length)
+    {
+        var actualExection = Assert.Throws<OverflowException>(() => new OneDArray(length));
     }
 
     [TestCase((int[])[1, 2, 3, 4, 5], 3, 10)]
