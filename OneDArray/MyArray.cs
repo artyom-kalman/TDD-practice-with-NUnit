@@ -5,7 +5,7 @@ public class OneDArray
     private int[] array;
     public int Length
     {
-        get => -1;
+        get => array.Length;
     }
 
     public int this[int i]
