@@ -19,9 +19,9 @@ public class OneDArray
         array = new int[length];
     }
 
-    public OneDArray(int[] array)
+    public OneDArray(int[] values)
     {
-        this.array = array;
+        array = values;
     }
 
     public int PositiveElementsSum()
